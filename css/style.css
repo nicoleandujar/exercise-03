@@ -1,8 +1,9 @@
 /* Add @import Google Font here */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700i&display=swap');
 
 body {
   color: #222;
-  font-family: "Andale Mono", sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 1.25;
 }
 
