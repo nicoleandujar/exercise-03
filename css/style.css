@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
-/* Add @import Google Font here */
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');/* Add @import Google Font here */
 
 body {
   color: #222;
-  font-family: "PT Serif", serif;
+  font-family: "Montserrat", sans-serif;
   line-height: 1.25;
 }
 
